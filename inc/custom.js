@@ -1,2 +1,2 @@
 // I'm from master
-alert("Hello world!"):
+alert("Hello world!");
